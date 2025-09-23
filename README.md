@@ -1,4 +1,6 @@
 # 프로젝트 기획서
+<img width="1920" height="1080" alt="9  시장 분석" src="https://github.com/user-attachments/assets/53d88920-9f3a-4598-ae26-52cdaa7f009b" />
+![10_경쟁사분석](https://github.com/user-attachments/assets/5fd13f55-f917-4569-a264-f29fe6fd30c7)
 
 ## 1. 프로젝트 정의
 
