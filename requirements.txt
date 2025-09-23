@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+requests
+Pillow
+folium
+streamlit-folium
+python-dotenv
