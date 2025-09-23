@@ -259,7 +259,7 @@
 ## 4. 프로젝트 주요 결과 요약
 
 - **성과**:
-    - YOLO 기반 피부 진단 모델 정확도 87% 달성
+    - YOLO 기반 피부 진단 모델 정확도 62% 달성
     - 대시보드 및 보고서 기능 구현 완료
 - **결과물**:
     - (https://kpmg6-2ndproject-acnecheck.streamlit.app/**](https://kpmg6-2ndproject-acnecheck.streamlit.app)
