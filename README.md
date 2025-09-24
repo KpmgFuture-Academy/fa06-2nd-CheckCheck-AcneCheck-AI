@@ -156,15 +156,11 @@
 
 - **설계 개요**:
     - 데이터 수집: Kaggle, Roboflow, 의료기관 표준데이터
-    - 분석 및 시각화: YOLOv8 + FastAPI API, Streamlit Dashboard
+    - 분석 : YOLOv8 (PyTorch), Pandas, NumPy
+    - 데이터 구현  : Python, OpenCV, Labeling, API 연동
+    - 시각화: Matplotlib, Seaborn + Streamlit Dashboard
 
-## 2. 기술 스택
-
-- 데이터 수집: Python, OpenCV, Labeling, API 연동
-- 분석 및 처리: YOLOv8 (PyTorch), Pandas, NumPy
-- 시각화: Matplotlib, Seaborn, Streamlit, React.js (프론트)
-
-## 3. 설계 이미지
+## 2. 설계 이미지
 
 ![image.png](image.png)
 
