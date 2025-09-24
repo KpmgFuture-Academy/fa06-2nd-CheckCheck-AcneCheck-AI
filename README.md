@@ -155,7 +155,6 @@
 ## 1. 데이터 아키텍처
 
 - **설계 개요**:
-    - 데이터 수집: Kaggle, Roboflow, 의료기관 표준데이터
     - 분석 : YOLOv8 (PyTorch), Pandas, NumPy
     - 데이터 구현  : Python, OpenCV, Labeling, API 연동
     - 시각화: Matplotlib, Seaborn + Streamlit Dashboard
@@ -173,7 +172,6 @@
 - 데이터 소스: Kaggle Acne Dataset, Roboflow Universe – Acne Dataset, 전국 의료기관 표준데이터
 - 주요 컬럼:
     - image_id: 이미지 ID
-    - user_id: 사용자 ID
     - acne_type: 여드름 종류
     - recommendation: 추천 화장품 매핑
 
