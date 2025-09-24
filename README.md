@@ -206,9 +206,10 @@
 ![image.png](image1.png)
 
 ## 2. 대시보드
-<img width="718" height="189" alt="image" src="https://github.com/user-attachments/assets/a1c2e72f-222b-420d-82ef-e65d169d7659" />
-<img width="721" height="683" alt="image" src="https://github.com/user-attachments/assets/dce09004-be11-48bd-9ad9-20aa5a519334" />
-<img width="722" height="604" alt="image" src="https://github.com/user-attachments/assets/d9725727-c3f8-4e5f-b517-940697c97fe1" />
+<img width="1819" height="624" alt="image" src="https://github.com/user-attachments/assets/2eb54431-db70-459e-9cd3-39ec8e34a38b" />
+<img width="1100" height="753" alt="image" src="https://github.com/user-attachments/assets/eaad608e-cc51-46cb-bf77-f539e1480a48" />
+<img width="1114" height="365" alt="image" src="https://github.com/user-attachments/assets/60a6bad5-b717-4f3e-99c1-249d4fb18535" />
+<img width="1119" height="932" alt="image" src="https://github.com/user-attachments/assets/e8f20af4-ca05-4ee4-bea4-884f97814360" />
 
 ## 3. 제안
 
