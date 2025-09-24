@@ -1,8 +1,29 @@
 ***
 # 프로젝트 기획서
-<img width="1920" height="1080" alt="9  시장 분석" src="https://github.com/user-attachments/assets/53d88920-9f3a-4598-ae26-52cdaa7f009b" />
-
-![10_경쟁사분석](https://github.com/user-attachments/assets/163b5350-d232-4f79-bed4-1925c250048b)
+<img width="1920" height="1080" alt="1  표지" src="https://github.com/user-attachments/assets/fd2da454-7ca3-43fc-8214-1d366becc69e" />
+<img width="1920" height="1080" alt="2  배경" src="https://github.com/user-attachments/assets/258edb34-db8e-40bf-b097-967c1fb9631e" />
+<img width="1920" height="1080" alt="3  문제점 - 해결방안 -기대효과" src="https://github.com/user-attachments/assets/2bfa3a87-db6f-4139-8343-dcfc8171273b" />
+<img width="1920" height="1080" alt="4  작동방식_step 1" src="https://github.com/user-attachments/assets/13fcedd5-ff54-4ed6-bac2-f3cf9a286adf" />
+<img width="1920" height="1080" alt="5  작동방식_step 2" src="https://github.com/user-attachments/assets/dc81171a-8949-4cd7-9978-26872f762577" />
+<img width="1920" height="1080" alt="6  작동방식_step 3" src="https://github.com/user-attachments/assets/7fc66d95-dd57-48f5-99f4-d1d09d10d383" />
+<img width="1920" height="1080" alt="7  유저 타겟 분석" src="https://github.com/user-attachments/assets/8c0fcc0e-c4bc-421a-848b-b3c086436680" />
+<img width="1920" height="1080" alt="8  시장 분석" src="https://github.com/user-attachments/assets/827ea758-851f-4ed6-90e8-cb1b1c26d13f" />
+<img width="1920" height="1080" alt="9  시장 분석" src="https://github.com/user-attachments/assets/5648bcd5-a57c-4098-a87d-126ddb0c25b3" />
+<img width="1920" height="1080" alt="10  경쟁사 분석" src="https://github.com/user-attachments/assets/e40b1f17-6d3c-497a-b491-da55d0022c71" />
+<img width="1920" height="1080" alt="11  IA" src="https://github.com/user-attachments/assets/a0a484e2-5fef-4e83-b056-10123de4ffc1" />
+<img width="1920" height="1080" alt="12  Flow Chart" src="https://github.com/user-attachments/assets/a6540c85-3112-4f66-a743-a25a516f5970" />
+<img width="1920" height="1080" alt="13  프로젝트 모델링 진행 순서" src="https://github.com/user-attachments/assets/e4bf7cf6-c2ae-44b6-9cfb-bf486c2d0282" />
+<img width="1920" height="1080" alt="14  프로젝트 모델링 진행 순서" src="https://github.com/user-attachments/assets/750e2ec9-f571-4804-b9d8-587ea4616dcc" />
+<img width="1920" height="1080" alt="15  구현 방법" src="https://github.com/user-attachments/assets/c2bcf1fe-dadb-425e-8917-1c0db8ed0c84" />
+<img width="1920" height="1080" alt="16  구현방법" src="https://github.com/user-attachments/assets/1479b8b6-b0ad-43e6-a4bf-ec4c28b317fb" />
+<img width="1920" height="1080" alt="17  구현방법" src="https://github.com/user-attachments/assets/f7cc20f0-e6d7-427c-a967-a90879ad9b24" />
+<img width="1920" height="1080" alt="18  구현방법" src="https://github.com/user-attachments/assets/f6c6dd96-f54a-40bb-a13c-83f0f1b9f584" />
+<img width="1920" height="1080" alt="19  구현방법" src="https://github.com/user-attachments/assets/c93bcc44-9e72-4e82-a7e3-a467bdfc5640" />
+<img width="1920" height="1080" alt="20  마케팅 및 성장 전략" src="https://github.com/user-attachments/assets/c095e5c8-229c-4b83-b2c2-2bff03342701" />
+<img width="1920" height="1080" alt="21  AARRR 기반 마케팅 전략" src="https://github.com/user-attachments/assets/96f9d58f-6885-46e3-a7f0-c5815069270d" />
+<img width="1920" height="1080" alt="22  로드맵" src="https://github.com/user-attachments/assets/d144bd70-a032-45b7-af99-832ed0ad010e" />
+<img width="1920" height="1080" alt="23  회고" src="https://github.com/user-attachments/assets/ade24048-9704-47d7-b516-61ac6771a2d2" />
+<img width="1920" height="1080" alt="24  Q A" src="https://github.com/user-attachments/assets/e8a63bc3-6211-4498-878b-2ee5390ea110" />
 
 ## 1. 프로젝트 정의
 
