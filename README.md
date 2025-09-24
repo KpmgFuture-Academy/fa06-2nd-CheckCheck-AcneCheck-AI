@@ -206,8 +206,7 @@
 ![image.png](image1.png)
 
 ## 2. 대시보드
-
-
+![webcam](https://github.com/user-attachments/assets/beb4bb1f-88df-48d1-8dd5-54617f757443)
 
 ## 3. 제안
 
