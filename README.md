@@ -206,7 +206,9 @@
 ![image.png](image1.png)
 
 ## 2. 대시보드
-![webcam](https://github.com/user-attachments/assets/beb4bb1f-88df-48d1-8dd5-54617f757443)
+<img width="718" height="189" alt="image" src="https://github.com/user-attachments/assets/a1c2e72f-222b-420d-82ef-e65d169d7659" />
+<img width="721" height="683" alt="image" src="https://github.com/user-attachments/assets/dce09004-be11-48bd-9ad9-20aa5a519334" />
+<img width="722" height="604" alt="image" src="https://github.com/user-attachments/assets/d9725727-c3f8-4e5f-b517-940697c97fe1" />
 
 ## 3. 제안
 
