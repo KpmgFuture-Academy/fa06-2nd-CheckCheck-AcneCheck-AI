@@ -260,5 +260,5 @@
     - YOLO 기반 피부 진단 모델 정확도 62% 달성
     - 대시보드 및 보고서 기능 구현 완료
 - **결과물**:
-    - (https://kpmg6-2ndproject-acnecheck.streamlit.app)
+    - ([https://kpmg6-2ndproject-acnecheck.streamlit.app](https://kpmg6-2ndproject-acnecheck.streamlit.app/))
 ***
